@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"5662580b6e1fed8b","type":"text","text":"架构设计核心：\n\nPS：算表 送表 加入网络包头通过以太网送给上位机\nPL：**Pipelined Delay-Multiply-Sum (DMAS) Architecture**\n带权重的标准波束合成流水线\n查表 对齐相加合成波束 加入应用包头送给DMA（对齐上位机）","x":-20,"y":100,"width":300,"height":220},
+		{"id":"5582b5440d7aac04","type":"file","file":"02_TEC/software/DAS算法.md","x":-480,"y":128,"width":280,"height":165},
+		{"id":"a059cab9b934cc00","type":"text","text":"原因：\nFPGA特性不适合处理平方根运算，但适合流水线式并行相加，而浮点数的运算由PS端CPU处理再适合不过，\n业界DAS也是由板载CPU算表送表FPGA查表延迟求和","x":-32,"y":400,"width":325,"height":160},
+		{"id":"a644f786f7296dd0","type":"file","file":"架构设计参考文献.md","x":-32,"y":680,"width":325,"height":240},
+		{"id":"1a080731cf33d623","type":"file","file":"上位机包头格式定义.md","x":-20,"y":-200,"width":300,"height":200},
+		{"id":"c58f22bcf7839492","type":"file","file":"PL DAS_Core解析.md","x":540,"y":95,"width":300,"height":229},
+		{"id":"db7b6ca4e268d164","type":"file","file":"添加包头.md","x":1040,"y":95,"width":280,"height":229},
+		{"id":"5cd266c8cb279c8f","type":"file","file":"PS 计算延迟表下发.md","x":1520,"y":95,"width":300,"height":225},
+		{"id":"67835364e372b7e8","type":"file","file":"5.10小结.md","x":540,"y":600,"width":400,"height":400},
+		{"id":"1a35a562e6223d13","type":"file","file":"系统级软硬协同架构图.canvas","x":-540,"y":400,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"6eda7d2d0ef11992","fromNode":"5582b5440d7aac04","fromSide":"right","toNode":"5662580b6e1fed8b","toSide":"left"},
+		{"id":"5ed3e3790ced22db","fromNode":"5662580b6e1fed8b","fromSide":"top","toNode":"1a080731cf33d623","toSide":"bottom"},
+		{"id":"fd35595c968a8edc","fromNode":"5662580b6e1fed8b","fromSide":"right","toNode":"c58f22bcf7839492","toSide":"left"},
+		{"id":"65e64c131864251c","fromNode":"a059cab9b934cc00","fromSide":"bottom","toNode":"a644f786f7296dd0","toSide":"top"},
+		{"id":"1b828f66cea25760","fromNode":"5662580b6e1fed8b","fromSide":"bottom","toNode":"a059cab9b934cc00","toSide":"top"},
+		{"id":"19fc395f85851e8e","fromNode":"1a080731cf33d623","fromSide":"right","toNode":"db7b6ca4e268d164","toSide":"top"},
+		{"id":"033fc320ed21e10a","fromNode":"c58f22bcf7839492","fromSide":"right","toNode":"db7b6ca4e268d164","toSide":"left"},
+		{"id":"6e9c270a5b68b83c","fromNode":"db7b6ca4e268d164","fromSide":"right","toNode":"5cd266c8cb279c8f","toSide":"left"},
+		{"id":"892ef69ca04617de","fromNode":"5cd266c8cb279c8f","fromSide":"bottom","toNode":"c58f22bcf7839492","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "94b1d0d34819d5dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a48209959376726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa21dfd3d5a2754c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DAS移至FPGA.canvas",
+                "viewState": {
+                  "x": 658.1192893401014,
+                  "y": 322.5812182741115,
+                  "zoom": -0.7200228485427623
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DAS移至FPGA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a6548af7851e698",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eea2221ef341b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fecd8d95aebb5107",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6185a11948cdcd5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "baeb0075f80044bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a743d5f3f4a0936",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bd2a01e437795b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4db136f39a0c5e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_TEC/hardware/相控阵/zynq7100.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "zynq7100 的反向链接列表"
+            }
+          },
+          {
+            "id": "6602ea3f9aac0741",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_TEC/hardware/相控阵/zynq7100.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "zynq7100 的出链列表"
+            }
+          },
+          {
+            "id": "e3cf80ead45ddcd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a9a1c4b43448f6b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7e389a7b7ced04bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DAS移至FPGA.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "DAS移至FPGA 的大纲"
+            }
+          },
+          {
+            "id": "a8989d3c43872834",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a8989d3c43872834",
+  "lastOpenFiles": [
+    "Drawing 2026-05-11 01.12.07.excalidraw.md",
+    "DAS移至FPGA.canvas",
+    "系统级软硬协同架构图.canvas",
+    "PS 计算延迟表下发.md",
+    "PL DAS_Core解析.md",
+    "5.10小结.md",
+    "架构设计参考文献.md",
+    "context.md",
+    "DAS_Core仿真结果.md",
+    "上位机包头格式定义.md",
+    "02_TEC/software/DAS算法.md",
+    "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
+    "{E834A003-5E91-46C9-8984-B151AC86F644}.png",
+    "PL架构.canvas",
+    "未命名.canvas",
+    "添加包头.md",
+    "02_TEC/hardware/相控阵/ad9434.md",
+    "{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
+    "{47597AD3-5964-455B-A210-6EA7F812EA22}.png",
+    "{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
+    "02_TEC/hardware/相控阵/zynq7100.md",
+    "02_TEC/hardware/相控阵/ADC.md",
+    "02_TEC/hardware/相控阵/探头.md",
+    "00_MOC/Zynq-7100 架构索引 MOC.md",
+    "00_MOC/项目总览MOC.md",
+    "00_MOC/上位机与 Qt 技术 MOC.md",
+    "00_MOC/核心物理原理 MOC.md",
+    "00_MOC/超声数据链路 MOC.md",
+    "01_PRJ/zynq7100+ad9434/zc7100+ad9434数据链路.md",
+    "01_PRJ/zynq7100+ad9434/7100索引.md",
+    "02_TEC/hardware/相控阵",
+    "02_TEC/physical",
+    "01_PRJ/zynq7100/数据链路.md",
+    "01_PRJ/zynq7100/物理原理.md",
+    "01_PRJ/zynq7100/工程细节.md",
+    "02_TEC/software",
+    "02_TEC/hardware",
+    "02_TEC",
+    "01_PRJ/zynq7100+ad9434",
+    "欢迎.md",
+    "01_PRJ",
+    "00_MOC",
+    "未命名 1.canvas",
+    "未命名.base"
+  ]
+}
