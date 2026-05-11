@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.10小结.md",
+                "file": "02_TEC/physical/硬件体系架构primer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.10小结"
+              "title": "硬件体系架构primer"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.10小结.md",
+                "file": "02_TEC/physical/硬件体系架构primer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.10小结 的大纲"
+              "title": "硬件体系架构primer 的大纲"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "aa21dfd3d5a2754c",
   "lastOpenFiles": [
-    "DAS移至FPGA.canvas",
     "5.10小结.md",
+    "02_TEC/physical/硬件体系架构primer.md",
+    "README.md",
+    "DAS移至FPGA.canvas",
     "上位机包头格式定义.md",
     "添加包头.md",
     "PL DAS_Core解析.md",
@@ -236,7 +238,6 @@
     "02_TEC/hardware",
     "02_TEC",
     "01_PRJ/zynq7100+ad9434",
-    "欢迎.md",
     "01_PRJ",
     "00_MOC",
     "未命名 1.canvas",
