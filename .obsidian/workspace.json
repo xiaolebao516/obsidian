@@ -11,17 +11,14 @@
             "id": "aa21dfd3d5a2754c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DAS移至FPGA.canvas",
-                "viewState": {
-                  "x": 658.1192893401014,
-                  "y": 322.5812182741115,
-                  "zoom": -0.7200228485427623
-                }
+                "file": "5.10小结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DAS移至FPGA"
+              "icon": "lucide-file",
+              "title": "5.10小结"
             }
           }
         ]
@@ -159,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAS移至FPGA.canvas",
+                "file": "5.10小结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DAS移至FPGA 的大纲"
+              "title": "5.10小结 的大纲"
             }
           },
           {
@@ -198,26 +195,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a8989d3c43872834",
+  "active": "aa21dfd3d5a2754c",
   "lastOpenFiles": [
-    "Drawing 2026-05-11 01.12.07.excalidraw.md",
     "DAS移至FPGA.canvas",
+    "5.10小结.md",
+    "上位机包头格式定义.md",
+    "添加包头.md",
+    "PL DAS_Core解析.md",
+    "{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
+    "02_TEC/software/DAS算法.md",
+    "Drawing 2026-05-11 01.12.07.excalidraw.md",
     "系统级软硬协同架构图.canvas",
     "PS 计算延迟表下发.md",
-    "PL DAS_Core解析.md",
-    "5.10小结.md",
     "架构设计参考文献.md",
     "context.md",
     "DAS_Core仿真结果.md",
-    "上位机包头格式定义.md",
-    "02_TEC/software/DAS算法.md",
     "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
     "{E834A003-5E91-46C9-8984-B151AC86F644}.png",
     "PL架构.canvas",
     "未命名.canvas",
-    "添加包头.md",
     "02_TEC/hardware/相控阵/ad9434.md",
-    "{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
     "{47597AD3-5964-455B-A210-6EA7F812EA22}.png",
     "{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
     "02_TEC/hardware/相控阵/zynq7100.md",
