@@ -1,41 +1,110 @@
 {
   "main": {
-    "id": "94b1d0d34819d5dc",
+    "id": "7107b3fb5c3ad589",
     "type": "split",
     "children": [
       {
-        "id": "1a48209959376726",
+        "id": "93a1d6355247ca8d",
         "type": "tabs",
         "children": [
           {
-            "id": "aa21dfd3d5a2754c",
+            "id": "bb5e2773bc50a980",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "架构设计思路和参考文献.md",
-                "mode": "source",
-                "source": false
+                "file": "_canvas/DAS移至FPGA.canvas",
+                "viewState": {
+                  "x": 904.6651250455077,
+                  "y": 366.8776904501584,
+                  "zoom": -1.992731999535961
+                }
               },
-              "icon": "lucide-file",
-              "title": "架构设计思路和参考文献"
+              "icon": "lucide-layout-dashboard",
+              "title": "DAS移至FPGA"
+            }
+          },
+          {
+            "id": "311aeed9ec119d84",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}"
+            }
+          },
+          {
+            "id": "c17134c848414970",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{99FC5E99-5097-4E97-80FB-5E5E94C42258}"
+            }
+          },
+          {
+            "id": "d0fd2182dc64aaaa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}"
+            }
+          },
+          {
+            "id": "c92f70e4d29421d3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_attachments/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{516DB28C-437D-40DE-BA3D-47BB6747B93D}"
+            }
+          },
+          {
+            "id": "32338810b30df795",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_canvas/DAS移至FPGA.canvas",
+                "viewState": {
+                  "x": 1311.6314215138723,
+                  "y": 310.4345673727374,
+                  "zoom": -1.3260653328692944
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DAS移至FPGA"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a6548af7851e698",
+    "id": "251c094bd3149a13",
     "type": "split",
     "children": [
       {
-        "id": "7eea2221ef341b65",
+        "id": "1018c50106f15d67",
         "type": "tabs",
         "children": [
           {
-            "id": "fecd8d95aebb5107",
+            "id": "220da0aaebb12da6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +117,7 @@
             }
           },
           {
-            "id": "6185a11948cdcd5f",
+            "id": "860a8240a2744214",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +134,7 @@
             }
           },
           {
-            "id": "baeb0075f80044bc",
+            "id": "7fc96c4ffd6ff8d5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +150,20 @@
     "width": 300
   },
   "right": {
-    "id": "2a743d5f3f4a0936",
+    "id": "5b7ed8e8ae10d06c",
     "type": "split",
     "children": [
       {
-        "id": "1bd2a01e437795b1",
+        "id": "2b34741604165256",
         "type": "tabs",
         "children": [
           {
-            "id": "b4db136f39a0c5e6",
+            "id": "4b2e04a6a887d1f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_TEC/hardware/相控阵/zynq7100.md",
+                "file": "_canvas/DAS移至FPGA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +173,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "zynq7100 的反向链接列表"
+              "title": "DAS移至FPGA 的反向链接列表"
             }
           },
           {
-            "id": "6602ea3f9aac0741",
+            "id": "550f6785948659e2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_TEC/hardware/相控阵/zynq7100.md",
+                "file": "_canvas/DAS移至FPGA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "zynq7100 的出链列表"
+              "title": "DAS移至FPGA 的出链列表"
             }
           },
           {
-            "id": "e3cf80ead45ddcd0",
+            "id": "fa9e95cee6a6ac49",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +206,7 @@
             }
           },
           {
-            "id": "a9a1c4b43448f6b3",
+            "id": "1f70f0e9e1d62868",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +220,22 @@
             }
           },
           {
-            "id": "7e389a7b7ced04bc",
+            "id": "a3af6c41ce91b05d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.10小结.md",
+                "file": "_canvas/DAS移至FPGA.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.10小结 的大纲"
+              "title": "DAS移至FPGA 的大纲"
             }
           },
           {
-            "id": "a8989d3c43872834",
+            "id": "59af41f9b0aa48d6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -191,56 +260,59 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa21dfd3d5a2754c",
+  "active": "32338810b30df795",
   "lastOpenFiles": [
-    "{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
-    "波束合成DAS硬件架构设计参考文献.md",
-    "{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
-    "DAS移至FPGA.canvas",
-    "DAS_Core仿真结果.md",
-    "{E834A003-5E91-46C9-8984-B151AC86F644}.png",
-    "添加包头.md",
-    "预处理（待办）.md",
-    "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
-    "{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
-    "架构设计思路和参考文献.md",
-    "上位机包头格式定义.md",
-    "系统级软硬协同架构图.canvas",
-    "5.10小结.md",
-    "02_TEC/software/DAS算法.md",
-    "02_TEC/physical/硬件体系架构primer.md",
-    "README.md",
-    "PL DAS_Core解析.md",
-    "Drawing 2026-05-11 01.12.07.excalidraw.md",
-    "PS 计算延迟表下发.md",
-    "context.md",
-    "PL架构.canvas",
-    "未命名.canvas",
-    "02_TEC/hardware/相控阵/ad9434.md",
-    "{47597AD3-5964-455B-A210-6EA7F812EA22}.png",
+    "_canvas/系统级软硬协同架构图.canvas",
+    "_canvas/_cards/PL DAS_Core解析.md",
+    "_canvas/README.md",
+    "_canvas/_cards",
+    "_canvas/_cards/PS 计算延迟表下发.md",
+    "_canvas/DAS移至FPGA.canvas",
+    "_canvas/_cards/DAS_Core仿真结果.md",
+    "_canvas/_cards/context.md",
+    "_canvas/_cards/预处理（待办）.md",
+    "_canvas/_cards/添加包头.md",
+    "_canvas/_cards/架构设计思路和参考文献.md",
+    "_canvas/_cards/波束合成DAS硬件架构设计参考文献.md",
+    "_canvas/_cards/5.10小结.md",
+    "_attachments/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
+    "_canvas",
+    "_attachments/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
+    "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
+    "_attachments",
+    "_attachments/上位机包头格式定义.md",
+    "obsidian/波束合成DAS硬件架构设计参考文献.md",
+    "obsidian/DAS移至FPGA.canvas",
+    "_attachments/{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
+    "_attachments/{E834A003-5E91-46C9-8984-B151AC86F644}.png",
+    "_attachments/{47597AD3-5964-455B-A210-6EA7F812EA22}.png",
+    "02_TEC/hardware/相控阵/探头.md",
     "02_TEC/hardware/相控阵/zynq7100.md",
     "02_TEC/hardware/相控阵/ADC.md",
-    "02_TEC/hardware/相控阵/探头.md",
-    "00_MOC/Zynq-7100 架构索引 MOC.md",
-    "00_MOC/项目总览MOC.md",
-    "00_MOC/上位机与 Qt 技术 MOC.md",
-    "00_MOC/核心物理原理 MOC.md",
-    "00_MOC/超声数据链路 MOC.md",
-    "01_PRJ/zynq7100+ad9434/zc7100+ad9434数据链路.md",
-    "01_PRJ/zynq7100+ad9434/7100索引.md",
+    "02_TEC/hardware/相控阵/ad9434.md",
+    "02_TEC/software/DAS算法.md",
+    "02_TEC/physical/硬件体系架构primer.md",
     "02_TEC/hardware/相控阵",
-    "02_TEC/physical",
     "02_TEC/software",
+    "02_TEC/physical",
     "02_TEC/hardware",
     "02_TEC",
-    "01_PRJ/zynq7100+ad9434",
-    "01_PRJ",
+    "00_MOC/项目总览MOC.md",
+    "00_MOC/超声数据链路 MOC.md",
+    "00_MOC/核心物理原理 MOC.md",
+    "00_MOC/上位机与 Qt 技术 MOC.md",
+    "00_MOC/Zynq-7100 架构索引 MOC.md",
     "00_MOC",
-    "未命名 1.canvas",
-    "未命名.base"
+    "obsidian/添加包头.md",
+    "obsidian/上位机包头格式定义.md",
+    "obsidian/系统级软硬协同架构图.canvas",
+    "obsidian/{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
+    "obsidian/{E834A003-5E91-46C9-8984-B151AC86F644}.png",
+    "obsidian/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
+    "obsidian/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
+    "obsidian/02_TEC/hardware/相控阵"
   ]
 }
