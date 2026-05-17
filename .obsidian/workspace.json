@@ -11,17 +11,14 @@
             "id": "aa21dfd3d5a2754c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "系统级软硬协同架构图.canvas",
-                "viewState": {
-                  "x": 50.389619966073894,
-                  "y": 181.5862068965517,
-                  "zoom": -0.6811778159804596
-                }
+                "file": "架构设计思路和参考文献.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "系统级软硬协同架构图"
+              "icon": "lucide-file",
+              "title": "架构设计思路和参考文献"
             }
           }
         ]
@@ -200,29 +197,31 @@
   },
   "active": "aa21dfd3d5a2754c",
   "lastOpenFiles": [
-    "DAS移至FPGA.canvas",
-    "系统级软硬协同架构图.canvas",
-    "预处理（待办）.md",
-    "{E834A003-5E91-46C9-8984-B151AC86F644}.png",
-    "上位机包头格式定义.md",
-    "5.10小结.md",
+    "{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
     "波束合成DAS硬件架构设计参考文献.md",
     "{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
+    "DAS移至FPGA.canvas",
+    "DAS_Core仿真结果.md",
+    "{E834A003-5E91-46C9-8984-B151AC86F644}.png",
+    "添加包头.md",
+    "预处理（待办）.md",
+    "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
+    "{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
+    "架构设计思路和参考文献.md",
+    "上位机包头格式定义.md",
+    "系统级软硬协同架构图.canvas",
+    "5.10小结.md",
     "02_TEC/software/DAS算法.md",
     "02_TEC/physical/硬件体系架构primer.md",
     "README.md",
-    "添加包头.md",
     "PL DAS_Core解析.md",
     "Drawing 2026-05-11 01.12.07.excalidraw.md",
     "PS 计算延迟表下发.md",
     "context.md",
-    "DAS_Core仿真结果.md",
-    "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
     "PL架构.canvas",
     "未命名.canvas",
     "02_TEC/hardware/相控阵/ad9434.md",
     "{47597AD3-5964-455B-A210-6EA7F812EA22}.png",
-    "{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
     "02_TEC/hardware/相控阵/zynq7100.md",
     "02_TEC/hardware/相控阵/ADC.md",
     "02_TEC/hardware/相控阵/探头.md",
@@ -235,7 +234,6 @@
     "01_PRJ/zynq7100+ad9434/7100索引.md",
     "02_TEC/hardware/相控阵",
     "02_TEC/physical",
-    "01_PRJ/zynq7100/数据链路.md",
     "02_TEC/software",
     "02_TEC/hardware",
     "02_TEC",
