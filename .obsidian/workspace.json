@@ -4,90 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "93a1d6355247ca8d",
+        "id": "94a7553119b9ca1b",
         "type": "tabs",
         "children": [
           {
-            "id": "bb5e2773bc50a980",
+            "id": "dcf1bddded36c815",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_canvas/DAS移至FPGA.canvas",
-                "viewState": {
-                  "x": 904.6651250455077,
-                  "y": 366.8776904501584,
-                  "zoom": -1.992731999535961
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "DAS移至FPGA"
-            }
-          },
-          {
-            "id": "311aeed9ec119d84",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png"
-              },
-              "icon": "lucide-image",
-              "title": "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}"
-            }
-          },
-          {
-            "id": "c17134c848414970",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png"
-              },
-              "icon": "lucide-image",
-              "title": "{99FC5E99-5097-4E97-80FB-5E5E94C42258}"
-            }
-          },
-          {
-            "id": "d0fd2182dc64aaaa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png"
-              },
-              "icon": "lucide-image",
-              "title": "{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}"
-            }
-          },
-          {
-            "id": "c92f70e4d29421d3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_attachments/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png"
-              },
-              "icon": "lucide-image",
-              "title": "{516DB28C-437D-40DE-BA3D-47BB6747B93D}"
-            }
-          },
-          {
-            "id": "32338810b30df795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_TEC/software/DAS算法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DAS算法"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_TEC/software/DAS算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "DAS算法 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -179,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_TEC/software/DAS算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "DAS算法 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -222,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_TEC/software/DAS算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DAS算法 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -260,28 +187,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32338810b30df795",
+  "active": "dcf1bddded36c815",
   "lastOpenFiles": [
+    "_canvas/_cards/DAS_Core仿真结果.md",
+    "未命名.base",
+    "2026-05-17.md",
+    "LOG",
+    "02_TEC/software/DAS算法.md",
+    "_attachments/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
+    "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
+    "_attachments/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
     "02_TEC/hardware/相控阵/硬件体系架构primer.md",
     "00_MOC/Zynq-7100 架构索引 MOC.md",
     "00_MOC/项目总览MOC.md",
     "_canvas/DAS移至FPGA.canvas",
     "_canvas/系统级软硬协同架构图.canvas",
-    "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
     "_canvas/_cards/PL DAS_Core解析.md",
     "_canvas/README.md",
     "_canvas/_cards",
     "_canvas/_cards/PS 计算延迟表下发.md",
-    "_canvas/_cards/DAS_Core仿真结果.md",
     "_canvas/_cards/context.md",
     "_canvas/_cards/预处理（待办）.md",
     "_canvas/_cards/添加包头.md",
     "_canvas/_cards/架构设计思路和参考文献.md",
     "_canvas/_cards/波束合成DAS硬件架构设计参考文献.md",
     "_canvas/_cards/5.10小结.md",
-    "_attachments/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
     "_canvas",
-    "_attachments/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
     "_attachments",
     "_canvas/_cards/上位机包头格式定义.md",
     "obsidian/波束合成DAS硬件架构设计参考文献.md",
@@ -293,7 +224,6 @@
     "02_TEC/hardware/相控阵/zynq7100.md",
     "02_TEC/hardware/相控阵/ADC.md",
     "02_TEC/hardware/相控阵/ad9434.md",
-    "02_TEC/software/DAS算法.md",
     "02_TEC/hardware/相控阵",
     "02_TEC/software",
     "02_TEC/physical",
@@ -302,14 +232,11 @@
     "00_MOC/超声数据链路 MOC.md",
     "00_MOC/核心物理原理 MOC.md",
     "00_MOC/上位机与 Qt 技术 MOC.md",
-    "00_MOC",
     "obsidian/添加包头.md",
-    "obsidian/上位机包头格式定义.md",
     "obsidian/系统级软硬协同架构图.canvas",
     "obsidian/{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
     "obsidian/{E834A003-5E91-46C9-8984-B151AC86F644}.png",
     "obsidian/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
-    "obsidian/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
-    "obsidian/02_TEC/hardware/相控阵"
+    "obsidian/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png"
   ]
 }
