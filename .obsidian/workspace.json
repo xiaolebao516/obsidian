@@ -1,23 +1,23 @@
 {
   "main": {
-    "id": "94b1d0d34819d5dc",
+    "id": "ea90d585b3a81651",
     "type": "split",
     "children": [
       {
-        "id": "1a48209959376726",
+        "id": "32bb852f03b2f05c",
         "type": "tabs",
         "children": [
           {
-            "id": "aa21dfd3d5a2754c",
+            "id": "a2772655193e7bd6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "_canvas/DAS移至FPGA.canvas",
                 "viewState": {
-                  "x": 1000.1647058823528,
-                  "y": 274.3764705882352,
-                  "zoom": -1.2199656839419082
+                  "x": 988.1745268193436,
+                  "y": 133.6786834716159,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,35 +25,80 @@
             }
           },
           {
-            "id": "86445fff3248fd86",
+            "id": "3442ca9ab6da5bd1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_canvas/DAS移至FPGA.canvas",
+                "viewState": {
+                  "x": 900,
+                  "y": 300,
+                  "zoom": -1.3119440063147405
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DAS移至FPGA"
+            }
+          },
+          {
+            "id": "7bad712d190b2631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FIR滤波器设计.md",
+                "file": "检波verilog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FIR滤波器设计"
+              "title": "检波verilog"
+            }
+          },
+          {
+            "id": "7ac4630cc9d6233c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_canvas/_cards/添加包头.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "添加包头"
+            }
+          },
+          {
+            "id": "38fd88dc783ea983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_canvas/_cards/预处理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "预处理"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a6548af7851e698",
+    "id": "8789c04184916b12",
     "type": "split",
     "children": [
       {
-        "id": "7eea2221ef341b65",
+        "id": "28ee98b585c247de",
         "type": "tabs",
         "children": [
           {
-            "id": "fecd8d95aebb5107",
+            "id": "0672ef4af56b3343",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +111,7 @@
             }
           },
           {
-            "id": "6185a11948cdcd5f",
+            "id": "b424a54015cf25a4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +128,7 @@
             }
           },
           {
-            "id": "baeb0075f80044bc",
+            "id": "958e36eb0baf407d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,23 +141,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.50043487548828
+    "width": 300
   },
   "right": {
-    "id": "2a743d5f3f4a0936",
+    "id": "f5c9475e1be85597",
     "type": "split",
     "children": [
       {
-        "id": "1bd2a01e437795b1",
+        "id": "06742899ff87d5b6",
         "type": "tabs",
         "children": [
           {
-            "id": "b4db136f39a0c5e6",
+            "id": "20949e9bae740e9b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_TEC/hardware/相控阵/zynq7100.md",
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +167,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "zynq7100 的反向链接列表"
+              "title": "欢迎 的反向链接列表"
             }
           },
           {
-            "id": "6602ea3f9aac0741",
+            "id": "13d120c1b942af89",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_TEC/hardware/相控阵/zynq7100.md",
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "zynq7100 的出链列表"
+              "title": "欢迎 的出链列表"
             }
           },
           {
-            "id": "e3cf80ead45ddcd0",
+            "id": "b9ad280ae96a5908",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,7 +200,7 @@
             }
           },
           {
-            "id": "a9a1c4b43448f6b3",
+            "id": "d51caf0162960c55",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -169,22 +214,22 @@
             }
           },
           {
-            "id": "7e389a7b7ced04bc",
+            "id": "ca478be35d05b5ad",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.10小结.md",
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.10小结 的大纲"
+              "title": "欢迎 的大纲"
             }
           },
           {
-            "id": "a8989d3c43872834",
+            "id": "7facb732cd19cbd5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -202,6 +247,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -209,64 +255,61 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86445fff3248fd86",
+  "active": "7bad712d190b2631",
   "lastOpenFiles": [
+    "_canvas/DAS移至FPGA.canvas",
+    "_canvas/_cards/添加包头.md",
+    "_canvas/_cards/预处理.md",
+    "检波verilog.md",
+    "_attachments/{E001C34B-658E-40B5-B6ED-08ED4411599C}.png",
     "_attachments/{601F677F-B93A-4877-8433-A39C1C3427BF}.png",
     "_attachments/{23572AA7-EF0F-4562-89F9-0E7440B96ABF}.png",
-    "_attachments/{E001C34B-658E-40B5-B6ED-08ED4411599C}.png",
-    "_canvas/DAS移至FPGA.canvas",
     "FIR滤波器设计.md",
-    "检波.md",
-    "_canvas/系统级软硬协同架构图.canvas",
-    "_canvas/_cards/预处理（待办）.md",
-    "_canvas/_cards/添加包头.md",
-    "_canvas/_cards/波束合成DAS硬件架构设计参考文献.md",
     "_canvas/_cards/架构设计思路和参考文献.md",
-    "_canvas/_cards/上位机包头格式定义.md",
-    "_canvas/_cards/DAS_Core仿真结果.md",
-    "_canvas/_cards/PS 计算延迟表下发.md",
-    "_canvas/_cards/PL DAS_Core解析.md",
-    "_canvas/_cards/context.md",
-    "_canvas/_cards/5.10小结.md",
-    "_canvas/_cards",
-    "_canvas",
-    "_attachments/{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
-    "_attachments/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
-    "_attachments/{E834A003-5E91-46C9-8984-B151AC86F644}.png",
-    "_attachments/{47597AD3-5964-455B-A210-6EA7F812EA22}.png",
-    "_attachments/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
-    "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
-    "_attachments",
     "02_TEC/hardware/相控阵/硬件体系架构primer.md",
-    "架构设计思路和参考文献.md",
-    "{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
-    "波束合成DAS硬件架构设计参考文献.md",
-    "{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
-    "DAS移至FPGA.canvas",
-    "DAS_Core仿真结果.md",
-    "添加包头.md",
-    "预处理（待办）.md",
-    "上位机包头格式定义.md",
-    "系统级软硬协同架构图.canvas",
-    "5.10小结.md",
+    "02_TEC/hardware/相控阵/探头.md",
+    "02_TEC/hardware/相控阵/zynq7100.md",
+    "02_TEC/hardware/相控阵/ADC.md",
+    "02_TEC/hardware/相控阵/ad9434.md",
     "02_TEC/software/DAS算法.md",
-    "02_TEC/physical/硬件体系架构primer.md",
-    "README.md",
-    "PL DAS_Core解析.md",
-    "Drawing 2026-05-11 01.12.07.excalidraw.md",
-    "PL架构.canvas",
-    "未命名.canvas",
     "02_TEC/hardware/相控阵",
-    "02_TEC/physical",
     "02_TEC/software",
     "02_TEC/hardware",
     "02_TEC",
-    "01_PRJ/zynq7100+ad9434",
-    "01_PRJ",
-    "未命名 1.canvas"
+    "00_MOC/项目总览MOC.md",
+    "00_MOC/超声数据链路 MOC.md",
+    "00_MOC/核心物理原理 MOC.md",
+    "00_MOC/上位机与 Qt 技术 MOC.md",
+    "00_MOC/Zynq-7100 架构索引 MOC.md",
+    "00_MOC",
+    "_canvas/_cards/波束合成DAS硬件架构设计参考文献.md",
+    "_canvas/_cards/上位机包头格式定义.md",
+    "_canvas/_cards/PS 计算延迟表下发.md",
+    "_canvas/_cards/PL DAS_Core解析.md",
+    "_canvas/_cards/DAS_Core仿真结果.md",
+    "_canvas/_cards/context.md",
+    "_canvas/_cards/5.10小结.md",
+    "_canvas/系统级软硬协同架构图.canvas",
+    "_canvas/_cards",
+    "_canvas",
+    "_attachments/{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
+    "_attachments/{E834A003-5E91-46C9-8984-B151AC86F644}.png",
+    "_attachments/{99FC5E99-5097-4E97-80FB-5E5E94C42258}.png",
+    "_attachments/{516DB28C-437D-40DE-BA3D-47BB6747B93D}.png",
+    "_attachments/{47597AD3-5964-455B-A210-6EA7F812EA22}.png",
+    "_attachments/{0DBA46A3-00D4-4142-A9F1-FC3FD9D023A6}.png",
+    "_attachments",
+    "obsidian/_canvas/_cards/预处理（待办）.md",
+    "obsidian/_canvas/_cards/添加包头.md",
+    "obsidian/_canvas/系统级软硬协同架构图.canvas",
+    "obsidian/_canvas/_cards",
+    "obsidian/_canvas/DAS移至FPGA.canvas",
+    "obsidian/_canvas",
+    "obsidian/_attachments/{F63DE595-62DC-4A37-A6EE-1EB4653A3863}.png",
+    "DAS移至FPGA.canvas",
+    "系统级软硬协同架构图.canvas"
   ]
 }
