@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9b46e78db9d4be06","type":"file","file":"FIR滤波器设计.md","x":1560,"y":518,"width":400,"height":400},
+		{"id":"9b46e78db9d4be06","type":"file","file":"_canvas/_cards/FIR滤波器设计.md","x":1560,"y":518,"width":400,"height":400},
 		{"id":"7a1498d8e9aabbf4","type":"file","file":"_canvas/_cards/架构设计思路和参考文献.md","x":1080,"y":-320,"width":280,"height":227},
 		{"id":"5662580b6e1fed8b","type":"text","text":"**架构设计核心**：\n\nPS：算表 送表 加入网络包头通过以太网送给上位机\nPL：**Pipelined Delay-Multiply-Sum (DMAS) Architecture**\n带权重的标准波束合成流水线\n查表 对齐相加合成波束 加入应用包头送给DMA（对齐上位机）","x":-20,"y":100,"width":300,"height":220},
 		{"id":"5582b5440d7aac04","type":"file","file":"02_TEC/software/DAS算法.md","x":-480,"y":128,"width":280,"height":165},
@@ -14,7 +14,7 @@
 		{"id":"dbb2adda1da73cbe","type":"file","file":"_canvas/_cards/预处理.md","x":1080,"y":100,"width":280,"height":224,"color":"4"},
 		{"id":"67835364e372b7e8","type":"file","file":"_canvas/_cards/5.10小结.md","x":540,"y":680,"width":300,"height":240},
 		{"id":"81bc75b1fdca48a8","type":"text","text":"还未封装为ip核","x":565,"y":-200,"width":250,"height":50,"color":"1"},
-		{"id":"34e64c9c78cf9956","type":"file","file":"检波verilog.md","x":1023,"y":516,"width":400,"height":400},
+		{"id":"34e64c9c78cf9956","type":"file","file":"_canvas/_cards/检波verilog.md","x":1023,"y":516,"width":400,"height":400},
 		{"id":"bde9ca63861b8d47","x":1808,"y":-235,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
